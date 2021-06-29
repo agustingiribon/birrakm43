@@ -1,0 +1,83 @@
+.nav-item {
+    background-image:url(imagenes/texturas-madera-blancas_74190-6906.jpg) !important ;
+   
+    
+}
+.nav-link {
+    
+    color:black !important;
+    font-size: larger !important;
+    margin-top: 50px !important;
+   
+}
+.fondo {
+    background-image: url(imagenes/texturas-madera-blancas_74190-6906.jpg) !important;
+}
+footer {
+    display: flex;
+    justify-content: center;
+}
+    
+h1:hover {
+  
+    color: green;
+    transform: scale(2);
+    transition-property: all;
+    transition-duration: 2s;
+
+}
+
+h2:hover {
+   
+    color: green;
+    transform: scale(1);
+    transition-property: all;
+    transition-duration: 2s;
+}
+
+.maderas-blancas {
+    background-image: url(imagenes/texturas-madera-blancas_74190-6906.jpg);
+}
+
+
+
+
+.baresUno {
+    display: flex;
+    justify-content: center;
+
+    }
+
+.video-historia {
+    display: flex;
+    justify-content: center;
+}
+
+.mapas {
+    display: flex;
+    justify-content: center;
+}
+
+.h2-class {
+    display: flex;
+    justify-content: center;
+
+}
+
+.card-body {
+    background-image: url(imagenes/texturas-madera-blancas_74190-6906.jpg);
+}
+
+.btn-primary {
+   
+    background-color: green;
+    display: flex;
+    justify-content: center;
+   
+}
+
+
+
+
+
+
